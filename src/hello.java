@@ -5,5 +5,6 @@ public class hello {
         System.out.println("hello world v4 hot-fix");
         System.out.println("hello world v5 master ");
         System.out.println("hello world v5 hot-fix 2");
+        System.out.println("hello world v6 master");
     }
 }
